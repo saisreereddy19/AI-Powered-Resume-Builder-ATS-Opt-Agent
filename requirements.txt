@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+reportlab
+python-docx
+PyPDF2
+sentence-transformers
+jinja2
+streamlit
+requests
+pymupdf
+python-dotenv
+google-generativeai

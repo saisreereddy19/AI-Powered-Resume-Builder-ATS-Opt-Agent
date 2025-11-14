@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+backend/.env
+
+# Storage files (uploaded PDFs)
+backend/storage/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS-specific files (optional)
+.DS_Store
+Thumbs.db
