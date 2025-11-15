@@ -12,3 +12,4 @@ requests
 pymupdf
 python-dotenv
 google-generativeai
+google-genai
