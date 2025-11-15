@@ -51,6 +51,5 @@ uvicorn main:app --reload
 **Start the Streamlit frontend:**
 streamlit run app.py
 
-This project is deployed on Render.com. 
-You can access the live application here: https://your-deployed-app-name.onrender.com
+
 
